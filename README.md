@@ -1,1 +1,1 @@
-# android_vendor_huawei_y6
+Credit goes to: https://github.com/DestructoSphere
