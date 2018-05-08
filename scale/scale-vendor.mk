@@ -49,6 +49,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/scale/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/huawei/scale/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/huawei/scale/proprietary/lib/libqmi_nv_api.so:system/lib/libqmi_nv_api.so \
+    vendor/huawei/scale/proprietary/vendor/etc/pdc_G620s_L01.txt:system/vendor/etc/pdc_G620s_L01.txt \
     vendor/huawei/scale/proprietary/vendor/lib/libactuator_dw9714.so:system/vendor/lib/libactuator_dw9714.so \
     vendor/huawei/scale/proprietary/vendor/lib/libactuator_dw9714_13p1ba.so:system/vendor/lib/libactuator_dw9714_13p1ba.so \
     vendor/huawei/scale/proprietary/vendor/lib/libactuator_dw9714_13p1ba_camcorder.so:system/vendor/lib/libactuator_dw9714_13p1ba_camcorder.so \
@@ -74,6 +75,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/scale/proprietary/vendor/lib/libactuator_ov8858_foxconn_sc1102_camcorder.so:system/vendor/lib/libactuator_ov8858_foxconn_sc1102_camcorder.so \
     vendor/huawei/scale/proprietary/vendor/lib/libactuator_ov8858_foxconn_sc1102_camera.so:system/vendor/lib/libactuator_ov8858_foxconn_sc1102_camera.so \
     vendor/huawei/scale/proprietary/vendor/lib/libcalmodule_akm.so:system/vendor/lib/libcalmodule_akm.so \
+    vendor/huawei/scale/proprietary/vendor/lib/libcalmodule_gyroscope.so:system/vendor/lib/libcalmodule_gyroscope.so \
     vendor/huawei/scale/proprietary/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_common.so:system/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_common.so \
     vendor/huawei/scale/proprietary/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_default_video.so:system/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_default_video.so \
     vendor/huawei/scale/proprietary/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_preview.so:system/vendor/lib/libchromatix_gc2355_ofilm_ohw2f03_preview.so \
