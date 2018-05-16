@@ -60,7 +60,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
-    vendor/huawei/msm8909-common/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
@@ -93,7 +92,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libmm-als.so:system/vendor/lib/libmm-als.so \
-    vendor/huawei/msm8909-common/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libmm-disp-apis.so:system/vendor/lib/libmm-disp-apis.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libmm-qdcm.so:system/vendor/lib/libmm-qdcm.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
