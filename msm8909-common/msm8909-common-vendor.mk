@@ -75,7 +75,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
-    vendor/huawei/msm8909-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
     vendor/huawei/msm8909-common/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
