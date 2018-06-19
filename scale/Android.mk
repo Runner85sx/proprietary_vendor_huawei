@@ -72,4 +72,17 @@ LOCAL_MODULE_SUFFIX := .apk
 LOCAL_PRIVILEGED_MODULE := true
 include $(BUILD_PREBUILT)
 
+ifneq ($(BUILD_MMCAMERA_INTERFACE),true)
+include $(CLEAR_VARS)
+LOCAL_MODULE := libmmcamera_interface
+LOCAL_MODULE_OWNER := huawei
+LOCAL_SRC_FILES := proprietary/vendor/lib/libmmcamera_interface.so
+LOCAL_MULTILIB := 32
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX := .so
+include $(BUILD_PREBUILT)
+endif
+
+
 endif

@@ -47,7 +47,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/scale/proprietary/vendor/framework/qcrilhook.jar:system/vendor/framework/qcrilhook.jar \
     vendor/huawei/scale/proprietary/vendor/lib/libdmd_report.so:system/vendor/lib/libdmd_report.so \
     vendor/huawei/scale/proprietary/vendor/lib/libmm-qcamera.so:system/vendor/lib/libmm-qcamera.so \
-    vendor/huawei/scale/proprietary/vendor/lib/libmmcamera_interface.so:system/vendor/lib/libmmcamera_interface.so \
     vendor/huawei/scale/proprietary/vendor/lib/liboeminfo.so:system/vendor/lib/liboeminfo.so \
     vendor/huawei/scale/proprietary/vendor/lib/libqmi_nv_api.so:system/vendor/lib/libqmi_nv_api.so \
     vendor/huawei/scale/proprietary/vendor/etc/pdc_G620s_L01.txt:system/vendor/etc/pdc_G620s_L01.txt \
